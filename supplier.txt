@@ -1,0 +1,20 @@
+popular,0166683513,popular@gmail.com,kuala lumpur,35941904
+bestmart,0194567890,bestmart@yahoo.com,selangor,47281903
+bookworld,0177894561,bookworld@outlook.com,penang,58472901
+stationers,0161234567,stationers@gmail.com,johor,49182736
+paperplus,0189876543,paperplus@ymail.com,perak,38749281
+educorp,0175557890,educorp@edu.com,sabah,58471209
+officehub,0198877665,officehub@biz.com,sarawak,47283901
+penandpaper,0164455123,penandpaper@gmail.com,melaka,37849275
+studyzone,0183335555,studyzone@studymail.com,kelantan,58912047
+notebookstore,0176544321,notebookstore@hotmail.com,pahang,38491276
+readingtree,0194561234,readingtree@books.com,terengganu,45912035
+schoolmart,0185567891,schoolmart@schoolmail.com,perlis,57892013
+libraryhub,0169876654,libraryhub@librarymail.com,kedah,36912047
+knowledgebase,0171223344,knowledgebase@learnmail.com,penang,49572109
+papermate,0193322110,papermate@officemail.com,selangor,47821934
+inkandpaper,0169988776,inkandpaper@printmail.com,johor,38912847
+supplystore,0185647382,supplystore@b2b.com,negeri sembilan,47281095
+stationworld,0178475632,stationworld@stationery.com,sabah,54839271
+schoolessentials,0192233445,schoolessentials@shopmail.com,kuala lumpur,48572391
+officesupplies,0189988771,officesupplies@workmail.com,perak,39912874

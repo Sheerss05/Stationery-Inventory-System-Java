@@ -1,0 +1,18 @@
+[1]|1|Ballpoint Pen|Writing Instruments|Pilot|Blue|0.50|100|A smooth-writing ballpoint pen perfect for everyday use|ABC Supplies|15/Aug/2024|Kuala Lumpur
+[2]|2|Spiral Notebook|Paper Products|Mead|Red|2.99|50|A5-sized spiral notebook with 100 ruled pages|XYZ Distributors|20/Aug/2024|Alor Setar
+[3]|3|Glue Stick|Adhesives|UHU|White|0.75|150|Non-toxic glue stick ideal for paper and cardboard|XYZ Distributors|18/Aug/2024|Cheras
+[4]|4|Stapler|Office Supplies|Swingline|Black|5.99|30|Durable stapler that can staple up to 20 sheets at once|OfficeMart Supplies|25/Aug/2024|Petaling Jaya
+[5]|5|Mechanical Pencil|Writing Instruments|Pentel|Silver|3.50|75|0.5mm mechanical pencil with refillable lead|ABC Supplies|22/Aug/2024|Pulau Pinang
+[6]|6|File Folder|Organizers|Esselte|Blue|1.00|120|Standard A4 file folder for document organization|XYZ Distributors|16/Aug/2024|Perak
+[7]|7|Permanent Marker|Writing Instruments|Sharpie|Black|1.75|90|Permanent marker with a fine tip for precise writing|OfficeMart Supplies|12/Aug/2024|Alor Setar
+[8]|8|Ruler|Measuring Tools|Helix|Transparent|0.99|200|30cm plastic ruler with both metric and imperial measurement|ABC Supplies|28/Aug/2024|Perak
+[9]|9|Sticky Notes|Paper Products|3M|Yellow|2.50|150|Pack of 100 sticky notes, 3x3 inches|XYZ Distributors|30/Aug/2024|Kuala Lumpur
+[10]|10|Paper Clips|Office Supplies|Staples|Silver|0.99|500|100-pack of standard size paper clips|OfficeMart Supplies|01/Sep/2024|Cheras
+[11]|11|Correction Tape|Stationery|Tipp-Ex|White|1.99|150|Easy-to-use correction tape for clean, precise coverage|XYZ Distributors|02/Sep/2024|Petaling Jaya
+[12]|12|Index Cards|Paper Products|Oxford|White|2.50|100|Pack of 100 ruled index cards, 3x5 inches|ABC Supplies|03/Sep/2024|Setapak
+[13]|13|Push Pins|Office Supplies|Maped|Assorted|1.25|250|Assorted color push pins for bulletin boards|OfficeMart Supplies|04/Sep/2024|Pulau Pinang
+[14]|14|Desk Organizer|Office Supplies|Deflecto|Black|8.99|20|Multi-compartment desk organizer for office supplies|XYZ Distributors|05/Sep/2024|Kuala Lumpur
+[15]|15|Whiteboard Marker|Writing Instruments|Expo|Black|1.50|100|Low-odor dry erase marker for whiteboards|ABC Supplies|06/Sep/2024|Alor Setar
+[16]|16|Binder Clips|Office Supplies|Acco|Black|1.75|300|Box of 100 medium binder clips for securing documents|OfficeMart Supplies|07/Sep/2024|Setapak
+[17]|17|Envelope|Mailing Supplies|Mead|Manila|0.20|1000|9x12 inch manila envelsopes for mailing documents|XYZ Distributors|08/Sep/2024|Cheras
+[18]|18|Rubber Bands|Office Supplies|Alliance|Tan|0.50|500|Box of 500 standard size rubber bands|ABC Supplies|09/Sep/2024|Perak
